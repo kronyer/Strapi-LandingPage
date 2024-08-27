@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_section_image_grids",
+  "info": {
+    "displayName": "Image-grid",
+    "icon": "clock"
+  },
+  "options": {},
+  "attributes": {
+    "Image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
+    }
+  }
+}
